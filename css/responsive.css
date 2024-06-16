@@ -23,3 +23,17 @@
         text-align: center;
     }
 }
+
+@media screen and (max-width: 600px) {
+    .testimonials img {
+        height: 150px;
+        width: 150px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .testimonials img {
+        height: 250px;
+        width: 250px;
+    }
+  }
